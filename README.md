@@ -1,4 +1,8 @@
-+## Site Details
+##Version History
+v1.1.0 - February 24, 2014 - New information added and updated
+v1.0 - January 31, 2014 - Initial site uploaded and complete
+
+## Site Details
  
  This site is a personal project deisgned using elements of [Bootstrap](http://www.getbootstrap.com/), [Font-Awesome](http://fontawesome.io), and [Blacktie](http://www.blacktie.co). It was created to simplify the process of putting my personal information in one place in neat and tidy format. 
  
