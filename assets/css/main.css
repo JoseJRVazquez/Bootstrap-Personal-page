@@ -22,8 +22,22 @@ body {
     
   }
 
-body #laptop {
-	background-image: url(../img/IMG_0234.JPG);
+body .laptop {
+	background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    padding-top: 150px;
+    
+	background-image: url(../img/topmac.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 /* Titles */
